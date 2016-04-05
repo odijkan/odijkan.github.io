@@ -95,3 +95,6 @@ exclude:
   - webpack.config.js
   - README.md
   - LICENSE
+
+github_client_id: 88f6cf50c7e1bf1b22bb
+gatekeeper_host: https://odijkan-local.herokuapp.com
