@@ -13,8 +13,8 @@ resources:
   - name: Air Monitoring Stations GeoService
     url: 'https://services.arcgis.com/fLeGjb7u4uXqeF9q/arcgis/rest/services/Air_Monitoring_Stations/FeatureServer/0/query'
     format: api
-license_url: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
-license_name: UK Open Government Licence
+license_url: 'https://creativecommons.org/publicdomain/zero/1.0/'
+license_name: Creative Commons CCZero
 category:
   - Education
 maintainer: Tim Wisniewski
