@@ -1,16 +1,9 @@
-- license_name: Creative Commons Attribution
-  license_url: 'https://creativecommons.org/licenses/by/4.0/'
-- license_name: Creative Commons Attribution Share-Alike
-  license_url: 'https://creativecommons.org/licenses/by-sa/4.0/'
-- license_name: Creative Commons CCZero
-  license_url: 'https://creativecommons.org/publicdomain/zero/1.0/'
-- license_name: UK Open Government Licence
-  license_url: 'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/'
-- license_name: Open Data Commons Attribution License
-  license_url: 'http://www.opendefinition.org/licenses/odc-by'
-- license_name: Open Data Commons Open Database License (ODbL)
-  license_url: 'http://www.opendefinition.org/licenses/odc-odbl'
-- license_name: Open Data Commons Public Domain Dedication and Licence (PDDL)
-  license_url: 'http://www.opendefinition.org/licenses/odc-pddl'
-- license_name: sadasdsad
-  license_url: asdsadsadsada
+'https://creativecommons.org/licenses/by/4.0/': Creative Commons Attribution
+'https://creativecommons.org/licenses/by-sa/4.0/': Creative Commons Attribution Share-Alike
+'https://creativecommons.org/publicdomain/zero/1.0/': Creative Commons CCZero
+'https://www.nationalarchives.gov.uk/doc/open-government-licence/version/3/': UK Open Government Licence
+'http://www.opendefinition.org/licenses/odc-by': Open Data Commons Attribution License
+'http://www.opendefinition.org/licenses/odc-odbl': Open Data Commons Open Database License (ODbL)
+'http://www.opendefinition.org/licenses/odc-pddl': Open Data Commons Public Domain Dedication and Licence (PDDL)
+Not Applicable: Not Applicable
+'': ''
